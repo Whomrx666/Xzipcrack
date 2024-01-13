@@ -11,8 +11,7 @@ $ apt update -y && apt upgrade -y
 $ pkg install python
 $ pkg install git -y
 $ git clone https://github.com/Whomrx666/Xzipcrack.git
-$ cd Xzipcrack 
-$ bash install.sh
+$ cd Xzipcrack
 $ python Xzipcrack
 ```
 
