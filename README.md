@@ -13,7 +13,7 @@ $ pkg install git -y
 $ git clone https://github.com/Whomrx666/Xzipcrack.git
 $ cd Xzipcrack 
 $ bash install.sh
-$ python Xzipcrack.py
+$ python Xzipcrack
 ```
 
 ## Instructions
